@@ -1,3 +1,7 @@
 Jahne, B.[2002]. Digital Image Processing, 5th Edition, Springer, New York
 OpenCV 2.4.12.0 documentation © Copyright 2011-2014, opencv dev team. Last updated on Dec 17, 2015
 Rafael C. Gonzales,[2003]. Digital Image Processing, 3th Edition, University of Tennessee.
+
+http://zone.ni.com/reference/en-XX/help/372916L-01/nivisionconcepts/grayscale_morphology/
+https://en.wikipedia.org/wiki/Top-hat_transform
+https://reference.wolfram.com/language/ref/BottomHatTransform.html
